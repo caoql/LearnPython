@@ -1,3 +1,6 @@
 这个是git的常用命令整理:
 1)从远程仓库克隆一个项目：git clone 项目的地址
 如 git clone https://github.com/caoql/LearnPython.git
+
+2)从远程仓库拉取一个分支的最新代码： git pull origin 分支
+如 git pull origin master
