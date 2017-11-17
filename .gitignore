@@ -1,0 +1,8 @@
+text.txt
+
+# Python:
+*.py[co]
+
+
+# Java
+*.class
